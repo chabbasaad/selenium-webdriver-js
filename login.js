@@ -2,7 +2,7 @@ const { Builder, By, Key, until } = require('selenium-webdriver');
 
 async function loginToLaravel() {
     // Replace with your actual email and password
-    const email = 'saadchabba@gmail.com';
+    const email = 'emailaddress';
     const password = '12345678';
 
     // Initialize the WebDriver
